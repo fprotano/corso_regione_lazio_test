@@ -1,6 +1,7 @@
 Readme first
-bbbbbbbenvenuti nella lettura da R16
-
+riga 2:  benvenuti nella lettura da R16
+riga 3
+riga 4
 
 rgreg
 
